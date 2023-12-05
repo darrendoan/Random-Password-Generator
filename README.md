@@ -8,5 +8,7 @@ This solves the problem of having to make a randomized password manually and ins
 ## Usage
 You may access the password generator through this link:
 
+Just click generate password and fill in/select the prompts and voila! You have a completely randomized password that you can use for whatever you like! :D
+
 ## Credits 
 Huge thank you to Tom & Prateek from the USYD Coding Bootcamp for their assistance during class and after class. 
